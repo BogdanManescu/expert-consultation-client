@@ -158,5 +158,8 @@
       }
     }
   },
-  "defaultProject": "expert-consultation-client"
+  "defaultProject": "expert-consultation-client",
+  "cli": {
+    "analytics": "8172e2ff-e508-424b-8784-f3a710f9446c"
+  }
 }
